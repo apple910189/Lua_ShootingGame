@@ -1,5 +1,6 @@
 function love.load()
     target = {}
+    target.c = 4
     target.x = 300
     target.y = 300
     target.radius = 50
